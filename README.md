@@ -15,3 +15,11 @@ When designed the neuronal network, keep in mind you need to decided weather to 
 - [X] Task 4: performing a simple linear regreassion using sklearn libraries.
 - [X] Taks 5: design the neural network and tested.
 - [X] Taks 6: load a previous model and compare performance.
+
+### Project [2] : Predicting the rent based on numerical features using Neural Networks:
+- [X] Task 1: import and cleaning the data.
+- [X] Task 2: selecting features.
+- [X] Taks 3: is the train split.
+- [X] Task 4: desing the neural network, define the loss function and optimizer.
+- [X] Taks 5: training loop.
+- [X] Taks 6: save and test the model.
